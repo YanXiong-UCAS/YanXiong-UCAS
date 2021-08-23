@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yan XIONG</h1>
 
-**YanXiong-UCAS/YanXiong-UCAS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ###
 - 😄 Hi there, this Yan XIONG. I am a Ph.D. student from the University of Chinese Academy of Sciences(UCAS), P.R. China.
 - 🔭 My research interest includes spacecraft thermal control, deep reinforcement learning, transfer learning, intelligent control.
@@ -10,6 +8,8 @@
 - ⚡ Please check my [homepage](https://xiongyan.netlify.app/) for my CV and latest update!
 
 #<!--
+
+**YanXiong-UCAS/YanXiong-UCAS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 #Here are some ideas to get you started:
 
